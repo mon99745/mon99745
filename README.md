@@ -1,7 +1,16 @@
 ### 👋 Hello, I'm Ji-won Moon, a creative developer.
 ###   If you want to contact me. please leave me. a message
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:mon99745@gmail.com)
 
+### Skills
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-E34F26?style=flat-square&logo=CSS&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-E34F26?style=flat-square&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/JSP-E34F26?style=flat-square&logo=JSP&logoColor=white" />
+<img src="https://img.shields.io/badge/Servlet-E34F26?style=flat-square&logo=Servlet&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring MVC-E34F26?style=flat-square&logo=Spring MVC&logoColor=white" />
+<img src="https://img.shields.io/badge/SpringBoot-E34F26?style=flat-square&logo=SpringBoot&logoColor=white" />
 <!--
 **jiwonMoon-hub/jiwonMoon-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
