@@ -5,11 +5,11 @@
 
 ### Skills
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-E34F26?style=flat-square&logo=CSS&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-E34F26?style=flat-square&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-E34F26?style=flat-square&logo=JavaScript&logoColor=white" />
-<img src="https://img.shields.io/badge/JSP-E34F26?style=flat-square&logo=JSP&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaServerPage-E34F26?style=flat-square&logo=JSP&logoColor=white" />
 <img src="https://img.shields.io/badge/Servlet-E34F26?style=flat-square&logo=Servlet&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring MVC-E34F26?style=flat-square&logo=Spring MVC&logoColor=white" />
+<img src="https://img.shields.io/badge/SpringFramwork-E34F26?style=flat-square&logo=Spring MVC&logoColor=white" />
 <img src="https://img.shields.io/badge/SpringBoot-E34F26?style=flat-square&logo=SpringBoot&logoColor=white" />
 <!--
 **jiwonMoon-hub/jiwonMoon-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
