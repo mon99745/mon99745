@@ -1,4 +1,6 @@
-### Hello, I'm Ji-won Moon, a creative developer.  👋
+### 👋 Hello, I'm Ji-won Moon, a creative developer.
+###   If you want to contact me. please leave me. a message
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:mon99745@gmail.com)
 
 <!--
 **jiwonMoon-hub/jiwonMoon-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
