@@ -1,4 +1,4 @@
-### 0년차 개발자 문지원입니다.  👋
+### Hello, I'm Ji-won Moon, a creative developer.  👋
 
 <!--
 **jiwonMoon-hub/jiwonMoon-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
