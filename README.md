@@ -6,7 +6,12 @@
 ### 🛠Skills
 <div>
 <img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=Java&logoColor=red" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/C-white?style=flat-square&logo=C&logoColor=red" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=red" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+
 <img src="https://img.shields.io/badge/Jsp&Servlet-007396?style=flat-square&logo=jsp&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/PHP-007396?style=flat-square&logo=PHP&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+
 <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
@@ -18,5 +23,6 @@
 <img src="https://img.shields.io/badge/JQuery-4479A1?style=flat-square&logo=JQuery&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Ajax-4479A1?style=flat-square&logo=Ajax&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </br>
-<img src="https://img.shields.io/badge/Git-white?style=flat-square&logo=Git&logoColor=red" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=red" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=red" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
