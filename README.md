@@ -1,8 +1,6 @@
 ### 👋 Hello, I'm Ji-won Moon, a creative developer.
 ###   If you want to contact me. please leave me. a message
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:mon99745@gmail.com)
-
 ### 🛠Skills
 <div>
 <img src="https://img.shields.io/badge/Java-fffff0?style=flat-square&logo=Java&logoColor=red" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
