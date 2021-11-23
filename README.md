@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm Ji-won Moon, a creative developer.
-###   I'm always thinking about the core of the function and communication.
+
 ### 
 ###   If you want to contact me. please leave me. a message
 ###
