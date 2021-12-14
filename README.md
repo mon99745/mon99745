@@ -1,4 +1,5 @@
-### 👋 Hello, I'm Ji-won Moon, a creative developer.
+### 👋 Hello, I'm Ji-won Moon.
+
 
 ### 
 ###   If you want to contact me. please leave me. a message
