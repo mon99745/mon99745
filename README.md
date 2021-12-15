@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Ji-won Moon.
+### 👋 Hello
 
 
 ### 
