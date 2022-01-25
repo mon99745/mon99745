@@ -1,7 +1,7 @@
 ### If you want to contact me. 
 ### please leave me. a message.
 ###
-### 🛠Skill Stack
+### <center> 🛠Skill Stack </center>
 <div>
 <img src="https://img.shields.io/badge/Java-fffff0?style=flat-square&logo=Java&logoColor=red" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-fffff0?style=flat-square&logo=Python&logoColor=#008d62" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
