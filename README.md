@@ -14,5 +14,5 @@
 
 <div align=center>
 
-![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=mon99745&show_icons=true)
+![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=mon99745&hide=issues,contribs&show_icons=true)
 
