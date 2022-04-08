@@ -1,6 +1,6 @@
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
-    💡used as the main
+    💡main skill
 </p>
 
 <p align="center" display="inline-block">
