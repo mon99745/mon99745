@@ -1,7 +1,7 @@
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
     <br>
-    💡main
+    💡Main
 </p>
 
 <p align="center" display="inline-block">
