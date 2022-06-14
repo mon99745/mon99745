@@ -1,5 +1,5 @@
 <p align="center">
-    <h2>Tech Stack<h2><br>
+    <strong>Tech Stack</strong><br>
     <br>
     🐥 Major
 </p>
