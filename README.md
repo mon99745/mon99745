@@ -17,7 +17,6 @@
     🐣 Additional
 </p>
 <p align="center" display="inline-block"> 
-    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
     <img src="https://img.shields.io/badge/JSP-0769AD?style=for-the-badge&logo=jsp&logoColor=white">
     <img src="https://img.shields.io/badge/Thymeleaf-0769AD?style=for-the-badge&logo=Thymeleaf&logoColor=white">
     <img src="https://img.shields.io/badge/JPA-232F3E?style=for-the-badge&logo=jpa&logoColor=white">
@@ -26,6 +25,7 @@
     <img src="https://img.shields.io/badge/Ajax-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
    
   <br>
 </p><br>
