@@ -1,5 +1,5 @@
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    <h2>Tech Stack<h2><br>
     <br>
     🐥 Major
 </p>
