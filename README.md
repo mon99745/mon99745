@@ -17,8 +17,7 @@
     <br>
     🐣 Additional
 </p>
-<p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&logo=JSP&logoColor=white"> 
+<p align="center" display="inline-block"> 
     <img src="https://img.shields.io/badge/Ajax-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
