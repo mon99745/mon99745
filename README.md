@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/JPA-232F3E?style=for-the-badge&logo=jpa&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p><br>
 
@@ -20,6 +19,7 @@
 <p align="center" display="inline-block"> 
     <img src="https://img.shields.io/badge/JSP-0769AD?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Thymeleaf-0769AD?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+    <img src="https://img.shields.io/badge/JPA-232F3E?style=for-the-badge&logo=jpa&logoColor=white">
     <img src="https://img.shields.io/badge/Junit-25A162?style=for-the-badge&logo=junit5&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Ajax-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
