@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/JSP-0769AD?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Thymeleaf-0769AD?style=for-the-badge&logo=Thymeleaf&logoColor=white">
     <img src="https://img.shields.io/badge/Junit-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-    <img src="https://img.shields.io/badge/H2database-색상?style=for-the-badge&logo=H2database&logoColor=white">
+    <img src="https://img.shields.io/badge/H2database-4479A1?style=for-the-badge&logo=Databricks&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Ajax-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
