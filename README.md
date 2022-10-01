@@ -1,3 +1,7 @@
+<h3 align="center">
+Let's be developers, not coders
+</h3>
+
 <p align="center">
     <strong>Tech Stack</strong><br>
     <br>
