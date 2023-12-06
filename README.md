@@ -31,8 +31,6 @@ Let's be developers, not coders
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-    <img src="https://img.shields.io/badge/docker-F8DC75?style=for-the-badge&logo=docker-F8DC75&logoColor=blue">
-   
   <br>
 </p><br>
 
