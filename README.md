@@ -13,6 +13,7 @@ Let's be developers, not coders
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
     <img src="https://img.shields.io/badge/JPA-232F3E?style=for-the-badge&logo=jpa&logoColor=white">
+        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/RDBMS-4479A1?style=for-the-badge&logo=RDBMS&logoColor=white">
 </p><br>
 
@@ -28,7 +29,6 @@ Let's be developers, not coders
     <img src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=MyBatis&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Ajax-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <br>
