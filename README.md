@@ -33,12 +33,18 @@ Let's be developers, not coders
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <br>
 </p><br>
-<p align=center>
+
+<center>
+
 ![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mon99745&show_icons=true&theme=radical)
-</p>
-<p align=center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mon99745&layout=donut&show_icons=true&theme=radical)](https://github.com/mon99745/github-readme-stats)    
-</p>
+
+</center>
+
+<center>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</center>
 
 
 
