@@ -1,14 +1,14 @@
 <h3 align="center">
 Let's be developers, not coders
 </h3>
-
-<p align="center">
+<a main="center" align="center">
+<p>
     <strong>Tech Stack</strong><br>
     <br>
     🐥 Major
 </p>
 
-<p align="center" display="inline-block">
+<p display="inline-block">
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
@@ -18,11 +18,11 @@ Let's be developers, not coders
 </p><br>
 
 <br> 
-<p align=center>
+<p >
     <br>
     🐣 Additional
 </p>
-<p align="center" display="inline-block"> 
+<p display="inline-block"> 
     <img src="https://img.shields.io/badge/JSP-0769AD?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Thymeleaf-0769AD?style=for-the-badge&logo=Thymeleaf&logoColor=white">
     <img src="https://img.shields.io/badge/Junit-25A162?style=for-the-badge&logo=junit5&logoColor=white">
@@ -32,18 +32,21 @@ Let's be developers, not coders
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <br>
-</p><br>
-<p align="center">
+</p>
+<br>
 
-![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mon99745&show_icons=true&theme=radical)
+<p>
+
+![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mon99745&show_icons=true&theme=dark)
 
 </p>
 
-<p align="center">
+<p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mon99745&layout=donut&show_icons=true&theme=dark)
 
 </p>
+</a>
 
 
 
