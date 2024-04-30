@@ -1,6 +1,7 @@
 <h3 align="center">
 Let's be developers, not coders
 </h3>
+
 <a main="center" align="center">
 <p>
     <strong>Tech Stack</strong><br>
@@ -38,10 +39,6 @@ Let's be developers, not coders
 <p>
 
 ![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mon99745&show_icons=true&theme=dark)
-
-</p>
-
-<p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mon99745&layout=donut&show_icons=true&theme=dark)
 
