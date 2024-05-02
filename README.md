@@ -16,7 +16,6 @@ Let's be developers, not coders
     <img src="https://img.shields.io/badge/RDBMS-4479A1?style=for-the-badge&logo=RDBMS&logoColor=white">
 </p><br>
 
-<br> 
 <p >
     <br>
     🐣 Additional
@@ -37,8 +36,7 @@ Let's be developers, not coders
 <p>
 
 ![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mon99745&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mon99745&layout=donut&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mon99745&layout=donut&show_icons=true&theme=dark&style=height=195px)
 
 </p>
 
