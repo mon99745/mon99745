@@ -35,8 +35,8 @@ Let's be developers, not coders
 
 <p>
 
-![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mon99745&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mon99745&layout=donut&show_icons=true&theme=dark&style=height=195px)
+![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mon99745&show_icons=true&theme=dark)
 
 </p>
 
