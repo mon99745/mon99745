@@ -1,11 +1,8 @@
 <div align="center">
 
-    
-<header>
-<h2> Let's be developers, not coders. </h2><br>
-</header>
+<body>
+<h1> Let's be developers, not coders. <br></h1>
 
-<body style="text-align: center;">
 <h3> 📦  TECH STACK </h3>
 <h4> 🛠️  MAIN TECH </h4>
 <div>
@@ -58,9 +55,10 @@
     <img src="https://img.shields.io/badge/Jenkins-232F3E?style=social&logo=Jenkins&logoColor=black">
 </div><br>
 
+---
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mon99745&show_icons=true&theme=dark" style="width: 54%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mon99745&layout=compact&show_icons=true&theme=dark" style="width: 41%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mon99745&show_icons=true&theme=graywhite" style="width: 54%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mon99745&layout=compact&show_icons=true&theme=graywhite" style="width: 41%;">
 </div>
 </body>
 
