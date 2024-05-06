@@ -34,7 +34,7 @@ Let's be developers, not coders
 <br>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mon99745&show_icons=true&theme=dark" style="width: 55%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mon99745&show_icons=true&theme=dark" style="width: 54%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mon99745&layout=compact&show_icons=true&theme=dark" style="width: 41%;">
 </div>
 
