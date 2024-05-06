@@ -1,4 +1,4 @@
-<header style="text-align: center;">
+<header align="center">
 <h2> Let's be developers, not coders. </h2>
 </header><br>
 
