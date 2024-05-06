@@ -61,20 +61,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mon99745&show_icons=true&theme=graywhite" style="width: 50%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mon99745&layout=compact&show_icons=true&theme=graywhite" style="width: 38%;">
 </div>
-
----
-<h5> PINNED <h5>
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mon99745&repo=SecurityReference&theme=graywhite" alt="Readme Card" href="https://github.com/mon99745/SecurityReference" style="width: 44%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mon99745&repo=TokenReference&theme=graywhite" alt="Readme Card" href="https://github.com/mon99745/TokenReference" style="width: 44%;">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mon99745&repo=CommonReference&theme=graywhite" alt="Readme Card" href="https://github.com/mon99745/CommonReference" style="width: 44%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mon99745&repo=Bar-menu&theme=graywhite" alt="Readme Card" href="https://github.com/mon99745/Bar-menu" style="width: 44%;">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mon99745&repo=petsong-wanryo&theme=graywhite" alt="Readme Card" href="https://github.com/mon99745/petsong-wanryo" style="width: 44%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mon99745&repo=inflearn-spring&theme=graywhite" alt="Readme Card" href="https://github.com/mon99745/inflearn-spring"style="width: 44%;">
-    <br>
-</div>
 </body>
 
 </div>
