@@ -1,4 +1,7 @@
-<header align="center">
+<div align="center">
+
+    
+<header>
 <h2> Let's be developers, not coders. </h2>
 </header><br>
 
@@ -57,5 +60,5 @@
 </div>
 </body>
 
-
+</div>
 
