@@ -33,12 +33,10 @@ Let's be developers, not coders
 </p>
 <br>
 
-<p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mon99745&layout=donut&show_icons=true&theme=dark&style=height=195px)
-![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mon99745&show_icons=true&theme=dark)
-
-</p>
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mon99745&show_icons=true&theme=dark" style="width: 55%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mon99745&layout=compact&show_icons=true&theme=dark" style="width: 42%;">
+</div>
 
 
 
