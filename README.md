@@ -1,9 +1,9 @@
-<header align="center">
+<header style="text-align: center;">
 <h2> Let's be developers, not coders. </h2>
-</header>
+</header><br>
 
-<body align="center">
-<h3 align="center"> TECH STACK </h3>
+<body style="text-align: center;">
+<h3> TECH STACK </h3>
 <h4> MAIN TECH </h4>
 <div>
     <img src="https://img.shields.io/badge/git-FCC624?style=social&logo=git&logoColor=black">
@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/Tibero-4479A1?style=social&logo=oracle&logoColor=black">
 </div><br>
 
-<h5> INFRA <h5>
+<h5> INFRA </h5>
 <div>
     <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=social&logo=apachetomcat&logoColor=black">
     <img src="https://img.shields.io/badge/JBoss-F8DC75?style=social&logo=redhat&logoColor=black">
@@ -51,7 +51,6 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=social&logo=amazonaws&logoColor=black">
     <img src="https://img.shields.io/badge/GCP-232F3E?style=social&logo=Google&logoColor=black">
 </div><br>
-
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=mon99745&show_icons=true&theme=dark" style="width: 54%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mon99745&layout=compact&show_icons=true&theme=dark" style="width: 41%;">
