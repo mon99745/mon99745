@@ -1,43 +1,62 @@
-<h3>
-Let's be developers, not coders
-</h3>
-<p>
-    <strong>Tech Stack</strong><br>
-    <br>
-    🐥 Major
-</p>
+<header align="center">
+<h2> Let's be developers, not coders. </h2>
+</header>
 
-<p display="inline-block">
-    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/JPA-232F3E?style=for-the-badge&logo=jpa&logoColor=white">
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/RDBMS-4479A1?style=for-the-badge&logo=RDBMS&logoColor=white">
-</p><br>
-
-<p >
-    <br>
-    🐣 Additional
-</p>
-<p display="inline-block"> 
-    <img src="https://img.shields.io/badge/JSP-0769AD?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/Thymeleaf-0769AD?style=for-the-badge&logo=Thymeleaf&logoColor=white">
-    <img src="https://img.shields.io/badge/Junit-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-    <img src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=MyBatis&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Ajax-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <br>
-</p>
+<body align="center">
+<h3 align="center"> TECH STACK </h3>
+<h4> MAIN TECH </h4>
+<div>
+    <img src="https://img.shields.io/badge/git-FCC624?style=social&logo=git&logoColor=black">
+    <img src="https://img.shields.io/badge/Java-007396?style=social&logo=OpenJDK&logoColor=black"> 
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=social&logo=Spring&logoColor=black">
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=social&logo=SpringBoot&logoColor=black">
 <br>
+    <img src="https://img.shields.io/badge/JPA-232F3E?style=social&logo=OpenJDK&logoColor=black">
+    <img src="https://img.shields.io/badge/mariadb-4479A1?style=social&logo=mariadb&logoColor=black">
+    <img src="https://img.shields.io/badge/linux-FCC624?style=social&logo=linux&logoColor=black">
+</div><br>
+
+<h4> OTHER EXPERIENCE TECH </h4>
+<h5> CLIENT </h5>
+<div>
+    <img src="https://img.shields.io/badge/HTML5-0769AD?style=social&logo=HTML5&logoColor=black">
+    <img src="https://img.shields.io/badge/CSS3-0769AD?style=social&logo=css3&logoColor=black">
+    <br>
+    <img src="https://img.shields.io/badge/Thymeleaf-0769AD?style=social&logo=Thymeleaf&logoColor=black">
+    <img src="https://img.shields.io/badge/JSP-0769AD?style=social&logo=OpenJDK&logoColor=black">
+    <br>
+    <img src="https://img.shields.io/badge/JQuery-0769AD?style=social&logo=jquery&logoColor=black">
+    <img src="https://img.shields.io/badge/Ajax-0769AD?style=social&logo=jquery&logoColor=black">
+</div><br>
+
+<h5> SERVER </h5>
+<div>
+    <img src="https://img.shields.io/badge/MyBatis-4479A1?style=social&logo=mariadb&logoColor=black">   
+    <br>
+    <img src="https://img.shields.io/badge/Junit-25A162?style=social&logo=junit5&logoColor=black">
+</div><br>
+
+<h5> DATA BASE </h5>
+<div>
+    <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=social&logo=PostgreSQL&logoColor=black">
+    <img src="https://img.shields.io/badge/Tibero-4479A1?style=social&logo=oracle&logoColor=black">
+</div><br>
+
+<h5> INFRA <h5>
+<div>
+    <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=social&logo=apachetomcat&logoColor=black">
+    <img src="https://img.shields.io/badge/JBoss-F8DC75?style=social&logo=redhat&logoColor=black">
+    <br>
+    <img src="https://img.shields.io/badge/VMWare-232F3E?style=social&logo=VMware&logoColor=black">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=social&logo=amazonaws&logoColor=black">
+    <img src="https://img.shields.io/badge/GCP-232F3E?style=social&logo=Google&logoColor=black">
+</div><br>
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=mon99745&show_icons=true&theme=dark" style="width: 54%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mon99745&layout=compact&show_icons=true&theme=dark" style="width: 41%;">
 </div>
-
+</body>
 
 
 
