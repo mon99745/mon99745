@@ -8,7 +8,7 @@
 <div>
     <img src="https://img.shields.io/badge/Git-FCC624?style=social&logo=git&logoColor=black">
     <img src="https://img.shields.io/badge/Java-007396?style=social&logo=OpenJDK&logoColor=black"> 
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=social&logo=Spring&logoColor=black">
+    <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=social&logo=Spring&logoColor=black">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=social&logo=SpringBoot&logoColor=black">
 <br>
     <img src="https://img.shields.io/badge/JPA-232F3E?style=social&logo=OpenJDK&logoColor=black">
@@ -16,7 +16,10 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=social&logo=linux&logoColor=black">
 </div><br>
 
-<h4> ⚙️  OTHER EXPERIENCE TECH </h4>
+<details>
+   <summary><h4> ⚙️  OTHER EXPERIENCE TECH </h4> </summary>
+   <p>
+       
 <h5> CLIENT </h5>
 <div>
     <img src="https://img.shields.io/badge/HTML5-0769AD?style=social&logo=HTML5&logoColor=black">
@@ -54,6 +57,9 @@
     <img src="https://img.shields.io/badge/Docker-232F3E?style=social&logo=Docker&logoColor=black">
     <img src="https://img.shields.io/badge/Jenkins-232F3E?style=social&logo=Jenkins&logoColor=black">
 </div><br>
+
+   </p>
+</details>
 
 ---
 <h5> STAT </h5>
