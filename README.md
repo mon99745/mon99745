@@ -25,15 +25,15 @@
     <img src="https://img.shields.io/badge/HTML5-0769AD?style=social&logo=HTML5&logoColor=black">
     <img src="https://img.shields.io/badge/CSS3-0769AD?style=social&logo=css3&logoColor=black">
     <br>
-    <img src="https://img.shields.io/badge/Thymeleaf-0769AD?style=social&logo=Thymeleaf&logoColor=black">
-    <img src="https://img.shields.io/badge/JSP-0769AD?style=social&logo=OpenJDK&logoColor=black">
-    <br>
     <img src="https://img.shields.io/badge/JQuery-0769AD?style=social&logo=jquery&logoColor=black">
     <img src="https://img.shields.io/badge/AJAX-0769AD?style=social&logo=jquery&logoColor=black">
 </div><br>
 
 <h5> SERVER </h5>
 <div>
+    <img src="https://img.shields.io/badge/Thymeleaf-0769AD?style=social&logo=Thymeleaf&logoColor=black">
+    <img src="https://img.shields.io/badge/JSP-0769AD?style=social&logo=OpenJDK&logoColor=black">
+    <br>
     <img src="https://img.shields.io/badge/MyBatis-4479A1?style=social&logo=mariadb&logoColor=black">   
     <br>
     <img src="https://img.shields.io/badge/Junit-25A162?style=social&logo=junit5&logoColor=black">
