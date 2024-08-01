@@ -24,6 +24,7 @@
 <div>
     <img src="https://img.shields.io/badge/HTML5-0769AD?style=social&logo=HTML5&logoColor=black">
     <img src="https://img.shields.io/badge/CSS3-0769AD?style=social&logo=css3&logoColor=black">
+    <img src="https://img.shields.io/badge/JavaScript-0769AD?style=social&logo=javascript&logoColor=black">
     <br>
     <img src="https://img.shields.io/badge/JQuery-0769AD?style=social&logo=jquery&logoColor=black">
     <img src="https://img.shields.io/badge/AJAX-0769AD?style=social&logo=jquery&logoColor=black">
