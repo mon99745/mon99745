@@ -60,6 +60,7 @@
 <h5> INFRA </h5>
 <div>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=social&logo=linux&logoColor=black">
+    <br>
     <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=social&logo=apachetomcat&logoColor=black">
     <img src="https://img.shields.io/badge/JBoss-F8DC75?style=social&logo=redhat&logoColor=black">
     <br>
