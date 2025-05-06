@@ -54,6 +54,7 @@
     <img src="https://img.shields.io/badge/Mariadb-4479A1?style=social&logo=mariadb&logoColor=black">
     <br>
     <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=social&logo=PostgreSQL&logoColor=black">
+    <img src="https://img.shields.io/badge/Oracle-4479A1?style=social&logo=oracle&logoColor=black">
     <img src="https://img.shields.io/badge/TiberoDB-4479A1?style=social&logo=oracle&logoColor=black">
 </div><br>
 
