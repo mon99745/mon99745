@@ -87,7 +87,7 @@
 ---
 <h5> STAT </h5>
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mon99745&count_private=false&include_all_commits=true&show_icons=true&theme=graywhite" style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mon99745&count_private=true&include_all_commits=true&show_icons=true&theme=graywhite" style="width: 50%;">
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mon99745&layout=compact&show_icons=true&theme=graywhite" style="width: 38%;"> -->
 </div>
 </body>
