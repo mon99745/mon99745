@@ -1,8 +1,6 @@
 <div align="center">
 
 <body>
-<h1> Let's be developers, not coders. <br></h1>
-
 <h2> 📦  TECH STACK </h2>
 <h3> 🛠️  Main technical tools </h3>
 <div>
