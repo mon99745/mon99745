@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/jdk8-007396?&logoColor=black">
     <img src="https://img.shields.io/badge/jdk11-007396?&logoColor=black">
     <img src="https://img.shields.io/badge/jdk17-007396?&&logoColor=black">
+    <img src="https://img.shields.io/badge/jdk21-007396?&&logoColor=black">
     <br>
     <br>
     <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=social&logo=Spring&logoColor=black">
