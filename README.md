@@ -5,20 +5,19 @@
 <h3> 🛠️  Main technical tools </h3>
 <div>
     <img src="https://img.shields.io/badge/Java-007396?style=social&logo=OpenJDK&logoColor=black">
-    <img src="https://img.shields.io/badge/jdk8-007396?&logoColor=black">
-    <img src="https://img.shields.io/badge/jdk11-007396?&logoColor=black">
-    <img src="https://img.shields.io/badge/jdk17-007396?&&logoColor=black">
-    <img src="https://img.shields.io/badge/jdk21-007396?&&logoColor=black">
+    <img src="https://img.shields.io/badge/Java_8-007396?&logoColor=black">
+    <img src="https://img.shields.io/badge/Java_17-007396?&&logoColor=black">
+    <img src="https://img.shields.io/badge/Java_21-007396?&&logoColor=black">
     <br>
     <br>
     <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=social&logo=Spring&logoColor=black">
-    <img src="https://img.shields.io/badge/v5.x.x-007396?&Color=black">
-    <img src="https://img.shields.io/badge/v6.x.x-007396?&logoColor=black">
+    <img src="https://img.shields.io/badge/Legacy-5.x-007396?&Color=black">
+    <img src="https://img.shields.io/badge/Standard-6.x-007396?&logoColor=black">
     <br>
     <br>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=social&logo=SpringBoot&logoColor=black">
-    <img src="https://img.shields.io/badge/v2.x.x-007396?&logoColor=black">
-    <img src="https://img.shields.io/badge/v3.x.x-007396?&logoColor=black">
+    <img src="https://img.shields.io/badge/Legacy-2.x-007396?&logoColor=black">
+    <img src="https://img.shields.io/badge/Standard-3.x-007396?&logoColor=black">
 </div><br>
 
 <details>
